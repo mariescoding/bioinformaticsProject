@@ -1,0 +1,25 @@
+Mon Jul 15 19:17:09 JST 2024
+First 3 lines of the genome file:
+>CM000994.3 Mus musculus chromosome 1, GRCm39 reference primary assembly C57BL/6J
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+Total Number of Sequences:
+61
+Length of the longest sequence:
+195154279
+Number of Unique feature types in the GFF file:
+      11
+Unique feature types:
+  13 CDS
+   1 D_loop
+   1 centromere
+  24 exon
+  13 gene
+   1 origin_of_replication
+   2 rRNA
+  61 region
+   6 sequence_alteration
+   6 sequence_feature
+  22 tRNA
+Number of exons per gene:
+      24
